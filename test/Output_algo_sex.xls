@@ -1,0 +1,29 @@
+	Customers (M)	Shooter products (M)
+0	client1	p2
+0	client1	p3
+0	client1	p5
+0	client1	p9
+0	client3	p1
+0	client3	p3
+0	client3	p4
+0	client3	p5
+0	client3	p6
+0	client3	p9
+0	client6	p2
+0	client6	p3
+0	client6	p5
+0	client6	p6
+0	client9	p1
+0	client9	p2
+0	client9	p4
+0	client9	p6
+	Customers (F)	Shooter products (F)
+0	client2	p2
+0	client2	p3
+0	client4	p1
+0	client4	p2
+0	client4	p9
+0	client8	p2
+0	client8	p3
+0	client8	p9
+0	client10	p3
